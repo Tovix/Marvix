@@ -1,0 +1,47 @@
+{
+	"name": "Shirts",
+    "image": "https://eg.hm.com/assets/styles/HNM/8248955/6117465a8f20c6cbb9dd7ff00cf6412923c086ea/2/image-thumb__1822284__product_listing/5cdcc81a8060c86fb11577f972c3d36de1bb0f56.jpg"
+}
+
+{
+	"name": "Trousers",
+    "image": "https://eg.hm.com/assets/styles/HNM/16478383/c0b2623f35f51153d3804af7dd2275ca36a8a0e9/1/image-thumb__4801892__product_listing/c0b2623f35f51153d3804af7dd2275ca36a8a0e9.jpg"
+}
+
+{
+	"name": "Shoes",
+    "image": "https://eg.hm.com/assets/styles/HNM/14881044/f09a073e76014d4f447314414377a0a3a3db93e1/1/image-thumb__4017652__product_listing/f09a073e76014d4f447314414377a0a3a3db93e1.jpg"
+}
+
+// another one
+{
+    "title": "Denmin Jacket-Shirt",
+    "price": 255,
+    "images": [
+        "https://eg.hm.com/assets/styles/HNM/16739787/5be0421ae2ea2dba3129d99dca1363f1e95c5b53/2/image-thumb__4920348__product_listing/6becf84f5c26f3573a4dfc177db2fc4d0990ddcc.jpg"
+    ]
+}
+
+{
+    "title": "Printed Pool Sliders",
+    "price": 250,
+    "images": [
+        "https://eg.hm.com/assets/styles/HNM/16154892/d91ca0da83ea0d519b22d5d33696ad682d4e6e0d/1/image-thumb__4615128__product_listing/d91ca0da83ea0d519b22d5d33696ad682d4e6e0d.jpg"
+    ]
+}
+
+{
+    "title": "Puff-sleeved cropped blouse",
+    "price": 255,
+    "images": [
+        "https://eg.hm.com/assets/styles/HNM/16296644/5e23464f01f4abff53cecd835cf6eed0c2962dc4/1/image-thumb__4662722__product_listing/5e23464f01f4abff53cecd835cf6eed0c2962dc4.jpg"
+    ]
+}
+
+{
+    "title": "Pointed-Collar Shirt",
+    "price": 255,
+    "images": [
+        "https://eg.hm.com/assets/styles/HNM/16638028/f66b051483a94312a7a69e90ec8f3f7458e102f8/2/image-thumb__4848094__product_listing/691b4266f719e4a3931293a14bcaa7a4a39a599e.jpg"
+    ]
+}
