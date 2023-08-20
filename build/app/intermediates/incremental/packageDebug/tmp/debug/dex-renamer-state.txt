@@ -1,0 +1,4 @@
+#Sun Aug 20 19:44:36 EET 2023
+base.0=/home/tovix/StudioProjects/marvix/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
